@@ -8,3 +8,5 @@ Many of these questions are rooted in simple concepts of probability theory bein
 A couple decide to have children until they have more boys than girls. What is the expected number of children they will have? Note that this means that if their first child is a boy, they will immediately stop.  
 ### [2. 30-Sided Die Game](Problems/Q2.md)  
 Two players are presented with a 30-sided die. The first player chooses a number between 1 and 30. The second player can then choose a number between 1 and 30 (they may not choose the same number as the first player). The die is then rolled and the person whose choice is closest to the die roll gets money equal to the die roll. Is it preferable to go first or second, and what strategy should be applied?
+### [3. Cointoss Game](Problems/Q3.md)  
+Two gamblers are playing a coin toss game. Gambler A has n + 1 fair coins, while gambler B has n fair coins. If both toss all their coins, what is the probability that gambler A flips more heads than gambler B.  
