@@ -13,4 +13,6 @@ Two gamblers are playing a coin toss game. Gambler A has n + 1 fair coins, while
 ### [4. Points in a Circle](Problems/Q4.md)  
 N points are randomly placed on the circumference of a circle. What is the probability that they are all within a semicircle?
 ### [5. Chess Tournament](Problems/Q5.md)  
-A chess tournament has $2^n$ players with different skill levels. A player with a higher skill level will always beat a player with a lower skill level. The players are placed in a traditional knockout bracket, but opponents are chosen randomly after each round. What are the odds that the 2nd best player faces the best player in the final?
+A chess tournament has $2^n$ players with different skill levels. A player with a higher skill level will always beat a player with a lower skill level. The players are placed in a traditional knockout bracket, but opponents are chosen randomly after each round. What are the odds that the 2nd best player faces the best player in the final?  
+### [6. Die Rolls](Problems/Q6.md)  
+You roll four 6-sided dice and multiply all four results. What is the probability that this value is an even number?
