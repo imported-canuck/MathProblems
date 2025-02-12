@@ -16,3 +16,5 @@ N points are randomly placed on the circumference of a circle. What is the proba
 A chess tournament has $2^n$ players with different skill levels. A player with a higher skill level will always beat a player with a lower skill level. The players are placed in a traditional knockout bracket, but opponents are chosen randomly after each round. What are the odds that the 2nd best player faces the best player in the final?  
 ### [6. Die Rolls](Problems/Q6.md)  
 You roll four 6-sided dice and multiply all four results. What is the probability that this value is an even number?
+### [7. Unbalanced Coin](Problems/Q7.md)  
+You have a biased coin with a probability $p$ of tossing heads and $1-p$ of tossing tails. You toss it until you get two heads in a row. How many times do you expect to toss it?
