@@ -18,3 +18,5 @@ A chess tournament has $2^n$ players with different skill levels. A player with 
 You roll four 6-sided dice and multiply all four results. What is the probability that this value is an even number?
 ### [7. Unbalanced Coin](Problems/Q7.md)  
 You have a biased coin with a probability $p$ of tossing heads and $1-p$ of tossing tails. You toss it until you get two heads in a row. How many times do you expect to toss it?
+### [8. Poker Straights](Problems/Q8.md)
+Consider a game that consists of randomly dealing out three hands of four cards from a deck of 12 cards. The deck contains four Aces, four Kings, two Queens, and two Jacks. What is the probability that at least one of the hands has all four different denominations?
