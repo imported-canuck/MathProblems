@@ -20,3 +20,4 @@ You roll four 6-sided dice and multiply all four results. What is the probabilit
 You have a biased coin with a probability $p$ of tossing heads and $1-p$ of tossing tails. You toss it until you get two heads in a row. How many times do you expect to toss it?
 ### [8. Poker Straights](Problems/Q8.md)
 Consider a game that consists of randomly dealing out three hands of four cards from a deck of 12 cards. The deck contains four Aces, four Kings, two Queens, and two Jacks. What is the probability that at least one of the hands has all four different denominations?
+### [9. 2000 IMO P2](Problems/Q9.md)
