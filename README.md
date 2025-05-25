@@ -21,3 +21,13 @@ You have a biased coin with a probability $p$ of tossing heads and $1-p$ of toss
 ### [8. Poker Straights](Problems/Q8.md)
 Consider a game that consists of randomly dealing out three hands of four cards from a deck of 12 cards. The deck contains four Aces, four Kings, two Queens, and two Jacks. What is the probability that at least one of the hands has all four different denominations?
 ### [9. 2000 IMO P2](Problems/Q9.md)
+Let $a,b,c>0$ with $abc = 1$. Show that
+
+$$
+{
+\left(a - 1 + \frac{1}{b}\right)
+\left(b - 1 + \frac{1}{c}\right)
+\left(c - 1 + \frac{1}{a}\right)
+\le 1
+}
+$$
