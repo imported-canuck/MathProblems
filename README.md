@@ -31,3 +31,4 @@ $$
 }
 $$
 ### [10. Coupon Collector](Problems/Q10.md)
+Each box of some product contains 1 random coupon. If there are $m$ different types of coupons, what is the expected number of boxes that need to be opened before you collect one of each coupon? 
